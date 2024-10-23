@@ -1,54 +1,54 @@
 [
       {
         "recipe_id": 1,
-        "recipe_name": "Chicken Stir Fry",
-        "image_link": "https://i.postimg.cc/xTrXVZFP/chicken-stir-fry.avif",
-        "short_description": "A quick and healthy chicken stir fry with mixed vegetables.",
+        "recipe_title": "Chicken Stir Fry",
+        "recipe_image": "https://i.postimg.cc/xTrXVZFP/chicken-stir-fry.avif",
+        "recipe_description": "A quick and healthy chicken stir fry with mixed vegetables.",
         "ingredients": ["500 g chicken breast", "150 g broccoli", "100 g bell peppers", "60 ml soy sauce", "20 g garlic", "30 g ginger"],
         "preparing_time": "25 min",
         "calories": "320 calories"
       },
       {
         "recipe_id": 2,
-        "recipe_name": "Spaghetti Carbonara",
-        "image_link": "https://i.postimg.cc/7Z9h7ZPB/spaghetti-carbonara.avif",
-        "short_description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+        "recipe_title": "Spaghetti Carbonara",
+        "recipe_image": "https://i.postimg.cc/7Z9h7ZPB/spaghetti-carbonara.avif",
+        "recipe_description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
         "ingredients": ["400 g spaghetti", "200 g pancetta", "4 eggs", "100 g Parmesan cheese", "50 g Pecorino cheese", "10 g black pepper"],
         "preparing_time": "20 min",
         "calories": "450 calories"
       },
       {
         "recipe_id": 3,
-        "recipe_name": "Beef Tacos",
-        "image_link": "https://i.postimg.cc/LssXVFnm/beef-tacos.avif",
-        "short_description": "Crispy tacos filled with seasoned beef, fresh salsa, and cheese.",
+        "recipe_title": "Beef Tacos",
+        "recipe_image": "https://i.postimg.cc/LssXVFnm/beef-tacos.avif",
+        "recipe_description": "Crispy tacos filled with seasoned beef, fresh salsa, and cheese.",
         "ingredients": ["300 g ground beef", "8 taco shells", "100 g cheddar cheese", "100 g lettuce", "50 g sour cream", "30 g salsa"],
         "preparing_time": "30 min",
         "calories": "380 calories"
       },
       {
         "recipe_id": 4,
-        "recipe_name": "Mushroom Risotto",
-        "image_link": "https://i.postimg.cc/26sSmqT5/mushroom-risotto.avif",
-        "short_description": "Creamy Italian risotto with earthy mushrooms and Parmesan.",
+        "recipe_title": "Mushroom Risotto",
+        "recipe_image": "https://i.postimg.cc/26sSmqT5/mushroom-risotto.avif",
+        "recipe_description": "Creamy Italian risotto with earthy mushrooms and Parmesan.",
         "ingredients": ["400 g arborio rice", "300 g mushrooms", "100 ml white wine", "1 liter chicken broth", "100 g Parmesan cheese", "50 g butter"],
         "preparing_time": "40 min",
         "calories": "400 calories"
       },
       {
         "recipe_id": 5,
-        "recipe_name": "Grilled Salmon",
-        "image_link": "https://i.postimg.cc/zXSGZGhJ/grilled-salmon.avif",
-        "short_description": "Juicy grilled salmon with a honey garlic glaze.",
+        "recipe_title": "Grilled Salmon",
+        "recipe_image": "https://i.postimg.cc/zXSGZGhJ/grilled-salmon.avif",
+        "recipe_description": "Juicy grilled salmon with a honey garlic glaze.",
         "ingredients": ["4 salmon fillets", "30 ml olive oil", "20 ml honey", "15 ml soy sauce", "10 g garlic", "5 g thyme"],
         "preparing_time": "20 min",
         "calories": "350 calories"
       },
       {
         "recipe_id": 6,
-        "recipe_name": "Vegetable Curry",
-        "image_link": "https://i.postimg.cc/P5Xrtnb1/vegetable-curry.avif",
-        "short_description": "Spicy and flavorful vegetable curry with coconut milk.",
+        "recipe_title": "Vegetable Curry",
+        "recipe_image": "https://i.postimg.cc/P5Xrtnb1/vegetable-curry.avif",
+        "recipe_description": "Spicy and flavorful vegetable curry with coconut milk.",
         "ingredients": ["400 g potatoes", "300 g carrots", "200 g cauliflower", "200 ml coconut milk", "50 g curry paste", "30 g cilantro"],
         "preparing_time": "35 min",
         "calories": "300 calories"
